@@ -10,19 +10,19 @@ const Header = () => {
             <div className="flex space-x-1 overflow-auto">
               <Link
                 href="/"
-                className="py-1 px-4 font-bold text-3xl text-black  ease-in duration-100 hover:-translate-y-3"
+                className="py-1 px-4 font-bold text-3xl text-black  ease-in duration-100 hover:-translate-y-2"
               >
                 Home
               </Link>
               <Link
                 href="/writting"
-                className="py-1 px-4 font-bold text-3xl text-black ease-in duration-100 hover:-translate-y-3"
+                className="py-1 px-4 font-bold text-3xl text-black ease-in duration-100 hover:-translate-y-2"
               >
                 Writting
               </Link>
               <Link
                 href="/projects"
-                className=" py-1 px-4 font-bold text-3xl text-black ease-in duration-100 hover:-translate-y-3"
+                className=" py-1 px-4 font-bold text-3xl text-black ease-in duration-100 hover:-translate-y-2"
               >
                 Projects
               </Link>
