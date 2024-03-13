@@ -27,6 +27,11 @@ const Header = () => {
                 Projects
               </Link>
             </div>
+            <div className="">
+              <p className="font-bold text-3xl text-black cursor-pointer  ease-in duration-100 hover:-translate-y-2">
+                Green
+              </p>
+            </div>
           </nav>
         </header>
       </React.Fragment>
