@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
       <React.Fragment>
-        <header className=" bg-[#ffffff] relative h-auto items-center max-w-screen-3xl py-10 px-44 mx-auto">
+        <header className=" bg-[#ffffff] relative h-auto items-center xl:max-w-screen-3xl py-10 px-[500px] mx-auto">
           <nav className="flex font-serif items-center justify-between sm:flex-row ">
             <div className="flex space-x-1 overflow-auto">
               <Link

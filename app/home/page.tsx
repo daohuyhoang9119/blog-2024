@@ -1,6 +1,7 @@
 export default function Home() {
   return (
     <div className="main-paragraph">
+      <p>About </p>
       <p>Ryan</p>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem
